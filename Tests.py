@@ -1,5 +1,5 @@
 
-#This program was made by Jinesh modi.
+#This project was made by Jinesh Piyush Modi.
 def tests():
         
         choice = int(input("1. Mental math\n2. Python quiz\n-"))
